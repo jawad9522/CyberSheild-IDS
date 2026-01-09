@@ -1,8 +1,5 @@
 # CyberSheild-IDS
 AI-based Intrusion Detection System using XGBoost for classification and anomaly detection.
-Here’s the full **Markdown README** in one block, ready for you to copy-paste directly into your GitHub repo:
-
----
 
 ## 🚀 Features
 
