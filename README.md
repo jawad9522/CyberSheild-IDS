@@ -179,12 +179,4 @@ This project is licensed under the **MIT License** — see the `LICENSE` file fo
 - NSL-KDD dataset creators  
 - XGBoost and scikit-learn communities  
 
----
-
-## 📬 Contact
-
-For questions or suggestions, please open an issue on GitHub.
-```
-
----
 
