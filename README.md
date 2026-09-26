@@ -25,7 +25,7 @@ AI-based Intrusion Detection System using XGBoost for classification and anomaly
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/network-ids.git
+git clone https://github.com/jawad9522/network-ids.git
 cd network-ids
 
 # Create a virtual environment
